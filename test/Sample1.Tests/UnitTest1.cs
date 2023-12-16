@@ -21,8 +21,6 @@ namespace Sample1.Tests
             Console.WriteLine("First test");
             _testOutputHelper.WriteLine("First test");
             _driver.Navigate().GoToUrl("https://www.google.com");
-
-           // Thread.Sleep(5000);
         }
     }
 }

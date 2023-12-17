@@ -47,7 +47,7 @@ namespace Sample1.Tests
         {
             new object[]
             {
-                "Mehdi.Ghadimi",
+                "MehdiGhadimi",
                 "MehdiPassword@12345",
                 "MehdiPassword@12345",
                 "Mehdi7033@gmail.com"
